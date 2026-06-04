@@ -15,8 +15,7 @@
 - 🤖 ML Engineer & Data Scientist | PyTorch · Sklearn · 
    QLoRA · RAG · MLflow · FastAPI · Docker
 - ⚙️ End-to-end ML pipelines: EDA → Modeling → API Deployment → CI/CD
-- 🧠 LLM fine-tuning, model merging, 
-   and production-ready RAG systems
+- 🧠 LLM fine-tuning and production-ready RAG systems
 - 📊 Data analysis and business insights with SQL
 - 💻 Full-stack background in Python and Javascript/TypeScript — 
    I can take models from notebook to production
