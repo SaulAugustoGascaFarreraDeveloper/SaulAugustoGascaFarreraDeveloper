@@ -4,7 +4,7 @@
 
 # Hi, I'm Saul Augusto Gasca Farrera 👋
 
-### Software Engineer | Data Scientist | AI Enthusiast
+### ML Engineer | Data Scientist | Python · Full-Stack
 
 </div>
 
@@ -12,20 +12,25 @@
 
 ## 👨‍💻 About Me
 
-- 🌍 Based in Mexico  
-- 💼 Freelance Web Developer focused on Data Analysis and SaaS projects  
-- 🤖 Experienced in end-to-end Machine Learning workflows (EDA → Modeling → Evaluation → Visualization)  
-- 🎓 Completed a Data Science Bootcamp to strengthen advanced analytics skills  
-- 🎮 Passionate about Web Development, Game Development, Machine Learning, and building data-driven solutions  
+- 🤖 ML Engineer & Data Scientist | PyTorch · Sklearn · 
+   QLoRA · RAG · MLflow · FastAPI · Docker
+- ⚙️ End-to-end ML pipelines: EDA → Modeling → API Deployment → CI/CD
+- 🧠 LLM fine-tuning, model merging, 
+   and production-ready RAG systems
+- 📊 Data analysis and business insights with SQL
+- 💻 Full-stack background in Python and Javascript/TypeScript — 
+   I can take models from notebook to production
+- 🎮 Sometimes Game Developer with Unreal Engine 5 and Unity on the side  
 
 ---
 
 ## 🚀 What I Do
 
-- Develop scalable web applications  
-- Build and train Machine Learning models  
-- Implement AI-driven systems (RAG, GANs, RL, CNNs)  
-- Transform data into actionable insights
+- Design and deploy end-to-end ML pipelines (EDA → Training → API → CI/CD)
+- Fine-tune and merge LLMs (QLoRA, LoRA)
+- Build production-ready RAG systems for enterprise knowledge
+- Analyze data and generate actionable business insights
+- Develop full-stack applications to bring ML models to production
 
 
 ## 🛠️ Technical Skills
